@@ -3,5 +3,6 @@ public class hello {
         String username = System.getenv("USERNAME");
 
         System.out.println("Hello, " + username + "!");
+        System.out.println("Welcome to jenkins");
     }
 }
